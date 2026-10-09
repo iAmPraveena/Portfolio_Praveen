@@ -1,4 +1,4 @@
-# SUSHMITA — THE SERIES
+# Praveen — THE QA Architect 
 
 A cinematic, streaming-inspired portfolio for **Sushmita Dasari**: Full-Stack Developer and B.Tech AI & ML student.
 Every section is an episode, every project is an Original, and the whole site plays like a series.
